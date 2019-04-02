@@ -1,4 +1,4 @@
-play-zipkin-tracing [![Build Status](https://travis-ci.org/openzipkin-contrib/play-zipkin-tracing.svg?branch=master)](https://travis-ci.org/openzipkin-contrib/play-zipkin-tracing)
+play-zipkin-tracing [![Build Status](https://travis-ci.org/openzipkin-contrib/play-zipkin-tracing.svg?branch=master)](https://travis-ci.org/openzipkin-contrib/play-zipkin-tracing) [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.zipkin.brave.play/play-zipkin-tracing-core_2.12/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.zipkin.brave.play/play-zipkin-tracing-core_2.12)
 ========
 
 Provides distributed tracing for Play Framework using [Zipkin](https://zipkin.io/). It makes possible to trace HTTP calls between Play based microservices easily without performance degradation.
